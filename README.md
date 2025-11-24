@@ -259,7 +259,7 @@ http://localhost:8080/swagger-ui/index.html
 ## 📞 联系方式
 
 如有问题或建议，欢迎通过以下方式联系：
-- 📧 Email: your.email@example.com
+- 📧 Email: 2661462026@qq.com
 - 💬 Issue: [GitHub Issues](https://github.com/yourusername/dormitory-management-system/issues)
 
 ---
