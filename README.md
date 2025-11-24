@@ -120,7 +120,7 @@ BOOK/
 
 1. **克隆项目**
 ```bash
-git clone https://github.com/yourusername/dormitory-management-system.git
+git clone https://github.com/qingyu6688/dormitory
 cd dormitory-management-system/backend
 ```
 
