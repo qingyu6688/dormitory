@@ -246,7 +246,7 @@ http://localhost:8080/swagger-ui/index.html
 
 ## 👨‍💻 作者
 
-- **qingyu** - [GitHub](https://github.com/yourusername)
+- **qingyu** - [GitHub](https://github.com/qingyu6688)
 
 ## 🙏 致谢
 
